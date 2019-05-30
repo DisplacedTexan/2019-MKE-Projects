@@ -1,1 +1,1 @@
-# Projects from the 2019 Milwaukee Web Development Program!
+The projects here are created by the students who participated in the Milwaukee Web Development program.
